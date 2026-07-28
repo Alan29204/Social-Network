@@ -16,3 +16,4 @@ description: Phát triển và hoàn thiện ứng dụng KyteNet (Frontend & Ba
    - Luôn kiểm tra trạng thái Docker (Postgres, Redis) trước khi chạy Backend.
    - Sau khi cập nhật Backend, chạy `npm run gen:api` ở Frontend để cập nhật client.
 5. Việc chạy ứng dụng như task dev, npm run dev, npm run start:dev tôi đã chạy sẵn rồi
+6. Chuẩn bị khôi phục các chức năng AI
